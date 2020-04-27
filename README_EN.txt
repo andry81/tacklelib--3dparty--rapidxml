@@ -49,13 +49,13 @@ Copyright © 2006, 2009 Marcin Kalicinski (kalita at poczta dot onet dot pl)
 3. REPOSITORIES
 -------------------------------------------------------------------------------
 Primary:
-  * https://sf.net/p/tacklelib/3dparty--rapidxml/HEAD/tree/trunk
-    https://svn.code.sf.net/p/tacklelib/3dparty--rapidxml/trunk
+  * https://sf.net/p/tacklelib/3dparty--rapidxml/HEAD/tree/branches
+    https://svn.code.sf.net/p/tacklelib/3dparty--rapidxml/branches
 First mirror:
-  * https://github.com/andry81/tacklelib--3dparty--rapidxml/tree/trunk
+  * https://github.com/andry81/tacklelib--3dparty--rapidxml/tree/branches
     https://github.com/andry81/tacklelib--3dparty--rapidxml.git
 Second mirror:
-  * https://bitbucket.org/andry81/tacklelib-3dparty-rapidxml/src/trunk
+  * https://bitbucket.org/andry81/tacklelib-3dparty-rapidxml/src/branches
     https://bitbucket.org/andry81/tacklelib-3dparty-rapidxml.git
 
 -------------------------------------------------------------------------------
