@@ -1,0 +1,9 @@
+* text=auto !eol
+/README_EN.txt -text
+/changelog.txt -text
+/license.txt -text
+/manual.html -text
+/rapidxml.hpp -text
+/rapidxml_iterators.hpp -text
+/rapidxml_print.hpp -text
+/rapidxml_utils.hpp -text

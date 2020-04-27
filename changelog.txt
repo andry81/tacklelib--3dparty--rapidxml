@@ -1,0 +1,4 @@
+2020.04.27:
+* new: changelog file
+* new: readme file
+* new: initial patched sources fork at release 1.13.0 (2009.05.15) from https://sourceforge.net/projects/rapidxml (https://sourceforge.net/projects/rapidxml/files/rapidxml/rapidxml%201.13/rapidxml-1.13.zip/download )
