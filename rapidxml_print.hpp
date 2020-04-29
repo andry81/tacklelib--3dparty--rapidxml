@@ -251,7 +251,7 @@ namespace rapidxml
             out = print_attributes(out, node, flags);
             
             // If node is childless
-            if (node->value_size() == 0 && !node->first_node())
+            if (node->value_size() == 0 && !node->first_node() && (node->flags() & node_self_closed_tag))
             {
                 // Print childless node tag ending
                 *out = Ch('/'), ++out;

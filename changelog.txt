@@ -1,3 +1,6 @@
+2020.04.29:
+* fixed: an xml node self closed tag flag is taken into account when printing xml
+
 2020.04.27:
 * new: changelog file
 * new: readme file

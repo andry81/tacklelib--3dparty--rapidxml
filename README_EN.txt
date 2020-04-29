@@ -1,5 +1,5 @@
 * README_EN.txt
-* 2020.04.27
+* 2020.04.29
 * tacklelib--3dparty--rapidxml
 
 1. DESCRIPTION
@@ -38,6 +38,8 @@ The original library patched to fix these issues:
 
 1. The `flags` function in the `xml_node` class to, for example, remember
    self-closed tags.
+
+2. Use the same flag to enable print self closed tag by a user choice
 
 -------------------------------------------------------------------------------
 2. LICENSE

@@ -249,6 +249,9 @@ namespace rapidxml
     ///////////////////////////////////////////////////////////////////////
     // Node flags
 
+    //! Node flags which represent default behaviour of the parser. 
+    const int node_flags_default = 0;
+
     //! Node is a self-closed tag.
     const int node_self_closed_tag = 0x1;
 
