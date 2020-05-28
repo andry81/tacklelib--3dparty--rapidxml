@@ -909,8 +909,9 @@ namespace rapidxml
         //! Constructs an empty node with the specified type. 
         //! Consider using memory_pool of appropriate document to allocate nodes manually.
         //! \param type Type of node to construct.
+        //! \param flags Flags of node to construct.
         xml_node(node_type type, int flags)
-            : m_flags()
+            : m_flags(flags)
             , m_type(type)
             , m_first_node(0)
             , m_first_attribute(0)
